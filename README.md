@@ -2,11 +2,11 @@
 
 This application provides a list of students, functionality is as follows:
 
-*The search bar enables the user to search for a user by ID
-*The "Show CW" button displays the student's overall score
-*The Add Comment area allows a user to enter student feedback, the 'submit' button saves the state of the comment to be displayed under the user ID. Entries can be entered and re-entered.
+* The search bar enables the user to search for a user by ID
+* The "Show CW" button displays the student's overall score
+* The Add Comment area allows a user to enter student feedback, the 'submit' button saves the state of the comment to be displayed under the user ID. Entries can be entered and re-entered.
 
-Application is hosted at the following Link 
+# Application is hosted at the following Link 
 https://react-comp6300.herokuapp.com/
 
 
